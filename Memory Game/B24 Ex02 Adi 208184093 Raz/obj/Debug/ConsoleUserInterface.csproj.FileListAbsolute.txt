@@ -1,0 +1,18 @@
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\B24 Ex02 Adi 208184093 Raz\obj\Debug\ConsoleUserInterface.csproj.AssemblyReference.cache
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\B24 Ex02 Adi 208184093 Raz\obj\Debug\ConsoleUserInterface.csproj.CoreCompileInputs.cache
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\B24 Ex02 Adi 208184093 Raz\bin\Debug\B24 Ex02 Adi 208184093 Raz.exe
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\B24 Ex02 Adi 208184093 Raz\bin\Debug\B24 Ex02 Adi 208184093 Raz.pdb
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\B24 Ex02 Adi 208184093 Raz\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\B24 Ex02 Adi 208184093 Raz\bin\Debug\MemoryGame.dll
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\B24 Ex02 Adi 208184093 Raz\bin\Debug\MemoryGame.pdb
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\B24 Ex02 Adi 208184093 Raz\obj\Debug\B24 Ex02 Adi 208184093 Raz.exe
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\B24 Ex02 Adi 208184093 Raz\obj\Debug\B24 Ex02 Adi 208184093 Raz.pdb
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz 315341396\B24 Ex02 Adi 208184093 Raz\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz 315341396\B24 Ex02 Adi 208184093 Raz\bin\Debug\MemoryGame.dll
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz 315341396\B24 Ex02 Adi 208184093 Raz\bin\Debug\MemoryGame.pdb
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz 315341396\B24 Ex02 Adi 208184093 Raz\obj\Debug\ConsoleUserInterface.csproj.AssemblyReference.cache
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz 315341396\B24 Ex02 Adi 208184093 Raz\obj\Debug\ConsoleUserInterface.csproj.CoreCompileInputs.cache
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz 315341396\B24 Ex02 Adi 208184093 Raz\bin\Debug\ConsoleUserInterface.exe
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz 315341396\B24 Ex02 Adi 208184093 Raz\bin\Debug\ConsoleUserInterface.pdb
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz 315341396\B24 Ex02 Adi 208184093 Raz\obj\Debug\ConsoleUserInterface.exe
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz 315341396\B24 Ex02 Adi 208184093 Raz\obj\Debug\ConsoleUserInterface.pdb

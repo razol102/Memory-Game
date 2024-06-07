@@ -1,0 +1,6 @@
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\MemoryGame\bin\Debug\MemoryGame.dll
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\MemoryGame\obj\Debug\MemoryGame.dll
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\raz12\Desktop\Raz\The Academic College of Tel Aviv–Yaffo\3rd Year\2nd Semester\C#\Ex_02\B24 Ex02 Adi 208184093 Raz\MemoryGame\obj\Debug\MemoryGame.csproj.AssemblyReference.cache
